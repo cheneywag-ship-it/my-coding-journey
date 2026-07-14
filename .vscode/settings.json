@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.gitignore": true,
+    "**/.gitattributes": true,
+    "**/LICENSE": true,
+    "**/.DS_Store": true,
+    "**/.vscode": true
+  },
+  "git.autofetch": true,
+  "git.autofetchPeriod": 120,
+  "git.pullOnBootstrap": true,
+  "git.postCommitCommand": "push"
+}
